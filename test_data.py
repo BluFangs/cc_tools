@@ -46,3 +46,7 @@ def print_game_library(game_library_data):
         print("       Launch Year = "+str(game.platform.launch_year))
         game_count += 1
 
+
+#I'm not really what to do here
+#print_game_library("test_data.json")
+#print_game_library("test_data.GameLibrary")
